@@ -1,0 +1,1 @@
+web: gunicorn pranto_api.wsgi
